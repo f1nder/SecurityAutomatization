@@ -1,0 +1,15 @@
+{
+  "name": "solution/security-automation",
+  "description": "Automation security process with CI",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Aleksandr Moroz",
+      "email": "netstroix@gmail.com"
+    }
+  ],
+  "require": {
+    "sensiolabs/insight": "~1.1",
+    "sensiolabs/security-checker": "~3.0"
+  }
+}
