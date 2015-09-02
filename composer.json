@@ -10,6 +10,10 @@
   ],
   "require": {
     "sensiolabs/insight": "~1.1",
-    "sensiolabs/security-checker": "~3.0"
+    "sensiolabs/security-checker": "~3.0",
+    "behat/behat": "~3.0"
+  },
+  "config": {
+    "bin-dir": "bin"
   }
 }
